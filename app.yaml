@@ -1,0 +1,5 @@
+runtime: nodejs
+service: speech-recognition
+env: flex
+env_variables:
+  GCM_SERVER_KEY: AAAANLP5q8w:APA91bHiUjWQZZpjf3KbFtIXQHSjWXpdoJtXgQQE7S_z2xhevYsX1yCYzgpcS6L3W6s0GPGA80RVI80v1jBNm1IxswPi5Lx59CYnd-_I64XB8UCE6-Ex5k3pJVHpJ0GyiSesZGwkC1lN
